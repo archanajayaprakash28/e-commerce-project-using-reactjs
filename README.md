@@ -1,4 +1,4 @@
-# e-commerce-project-using-reactjs
+# e-commerce-project
 
 In the project directory, you can run:
 npm start
